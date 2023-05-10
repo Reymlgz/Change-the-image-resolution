@@ -4,8 +4,8 @@
 
 #Install the Pillow library using: 
 
-```pip install pillow.
+  `pip install pillow`
 
 #To run the program type in your console: 
 
-```python resize.py 
+  `python resize.py` 
